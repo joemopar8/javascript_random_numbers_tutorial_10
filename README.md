@@ -1,1 +1,1 @@
-# javascript_random_numbers
+# Javascript Random Numbers Tutorial
